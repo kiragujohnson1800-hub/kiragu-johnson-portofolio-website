@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="56" viewBox="0 0 250 56" fill="none">
+  <rect x="2" y="4" width="48" height="48" rx="14" fill="#2563EB"/>
+  <path d="M14 16h6v10l10-10h8L26 28l13 13h-8L20 30v11h-6V16Z" fill="#fff"/>
+  <path d="M40 17h-5v17c0 3-1 4-4 4v5c6 0 9-3 9-9V17Z" fill="#BFDBFE"/>
+  <text x="62" y="27" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.1">KIRAGU JOHNSON</text>
+  <text x="63" y="43" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="600" letter-spacing="1.55">FULL-STACK WEB DEVELOPER</text>
+</svg>
